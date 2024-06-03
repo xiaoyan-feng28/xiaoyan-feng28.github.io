@@ -13,6 +13,6 @@ I graduated from [School of Material Science and Engineering](https://www2.scut.
 
 My primary research interests focus on integrating machine learning and GIS technologies into economics and finance, particularly through GeoAI and ScienceAI, to enhance insights and applications.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [XX's Curriculum Vitae](../assets/CV-Xiaoyan Feng.pdf).
 
 [Email](xiaoyanfeng28@qq.com) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
