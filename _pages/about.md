@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Current, I am seeking a Ph.D. position that combines machine learning, GIS, and their applications in economics and finance.
+Current, I am seeking a Ph.D. position that combines biomaterial, machine learning, and their applications in medical use.
 
-I graduated from [School of Material Science and Engineering](https://www2.scut.edu.cn/materials/), [South China University of Technology](https://www.scut.edu.cn/new/). My research interest includes surface modification, microshperes synthesis, machine learning, and computational simulation.
+I graduated from [School of Material Science and Engineering](https://www2.scut.edu.cn/materials/), [South China University of Technology](https://www.scut.edu.cn/new/). My research interest includes biomaterial polymer, microshperes synthesis, machine learning, and computational simulation.
 
-My primary research interests focus on integrating machine learning and GIS technologies into economics and finance, particularly through GeoAI and ScienceAI, to enhance insights and applications.
+My primary research interests focus on integrating biomaterial polymer and machine learning into practical use, particularly through organic synthesis, surface modification, and computational simulation to enhance insights and applications.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/CV-Xiaoyan Feng.pdf).
 
